@@ -2,6 +2,7 @@
 Sample App for a To Do List
 
 Contains Helm chart for installation of both tiers
+
 Uses local persistant volume
 
 **Prerequisite**
